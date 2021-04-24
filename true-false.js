@@ -10,7 +10,7 @@
 
 
 
-const age =NaN;
+const age ='';
 
 if(age)
 {
