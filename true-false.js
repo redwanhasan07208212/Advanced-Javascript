@@ -12,11 +12,20 @@
 
 const age ='';
 
-if(age)
+// if(age)
+// {
+//     console.log("This is true");
+// }
+// else
+// {
+//     console.log("This is false");
+// }
+
+if(false)
 {
-    console.log("This is true");
+    console.log('i am not false');
 }
-else
+else 
 {
-    console.log("This is false");
+    console.log("i am false");
 }
